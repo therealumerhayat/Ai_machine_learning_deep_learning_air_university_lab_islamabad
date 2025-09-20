@@ -1,0 +1,31 @@
+# Python dependencies for AI, Machine Learning & Deep Learning course
+
+# Core scientific libraries
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+
+# Jupyter Notebooks
+jupyter
+
+# Web/Data handling
+requests
+beautifulsoup4
+
+# Optional utilities
+tqdm
+
+
+#use pip install -r requirements.txt to install all dependencies
