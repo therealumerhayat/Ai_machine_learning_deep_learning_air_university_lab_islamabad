@@ -131,8 +131,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 **Muhammad Umer**  
-Student At: 
-Air University Islamabad  
+Pursuing AI & Machine Learning at Air University Islamabad-E9
 📧 Email: umerhayat282@gmail.com 
 +92-302-9854427
 
