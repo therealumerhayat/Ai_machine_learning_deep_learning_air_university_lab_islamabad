@@ -91,8 +91,7 @@ python scripts/data_preprocessing.py
 ├── quizzes/              # Python quiz notebooks
 ├── tasks/                # Hands-on coding tasks
 ├── assignments/          # Full project assignments
-├── solutions/            # Reference solutions
-├── scripts/              # Utility scripts
+├── LICENSE               # MIT License 
 ├── requirements.txt      # Project dependencies
 └── README.md             # This file
 ```
