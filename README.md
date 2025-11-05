@@ -88,12 +88,14 @@ python scripts/data_preprocessing.py
 ## Directory Structure
 ```
 .
-├── quizzes/              # Python quiz notebooks
-├── tasks/                # Hands-on coding tasks
-├── assignments/          # Full project assignments
-├── LICENSE               # MIT License 
-├── requirements.txt      # Project dependencies
-└── README.md             # This file
+├── quizzes/                                                # Python quiz notebooks
+├── tasks/                                                  # Hands-on coding tasks
+├── assignments/                                            # Full project assignments
+├── LICENSE                                                 # MIT License 
+├── requirements.txt                                        # Project dependencies
+├── data                                                    # relevent practicing datasets
+├── weekly_notebooks_as_per_navttc_course_outline           # as pr navttc course outline
+└── README.md                                               # This file
 ```
 
 ---
